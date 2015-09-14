@@ -1,0 +1,5 @@
+C:\Users\dmc\Desktop\LearningExercises\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\dmc\Desktop\LearningExercises\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\dmc\Desktop\LearningExercises\Classes\Classes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmc\Desktop\LearningExercises\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\dmc\Desktop\LearningExercises\Classes\Classes\obj\Debug\Classes.pdb
